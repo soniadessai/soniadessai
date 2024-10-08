@@ -4,7 +4,7 @@ Welcome to my little corner of the code universe! 🚀 I'm on a journey to turn 
 
 ## 🌍 About Me
 
-- 🔭 Passionate about competitive coding and the art of web development. Always exploring new algorithms and hungry for the next coding challenge.
+- 🔭 Passionate about competitive coding and backend development. Always exploring new algorithms and hungry for the next coding challenge.
 - 🎓 Graduated from the School of Hard Knocks, majoring in perseverance and minor in creative problem-solving.
 - 🌱 Currently cultivating a garden of knowledge, one commit at a time.
 
