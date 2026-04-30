@@ -1,21 +1,73 @@
 # 👋 Hey there, I'm Sonia Dessai!
 
-Welcome to my little corner of the code universe! 🚀 I'm on a journey to turn caffeine into code and dreams into applications. Here's a glimpse into the matrix of my digital existence:
+🚀 Welcome to my digital universe — where ideas turn into code and coffee powers everything ☕  
 
-## 🌍 About Me
+---
 
-- 🔭 Passionate about competitive coding and backend development. Always exploring new algorithms and hungry for the next coding challenge.
-- 🎓 Graduated from the School of Hard Knocks, majoring in perseverance and minor in creative problem-solving.
-- 🌱 Currently cultivating a garden of knowledge, one commit at a time.
+## 🌍 About Me  
+🔭 Passionate about **Competitive Coding** & **Backend Development**  
+🎯 Love solving complex problems and building scalable systems  
+🎓 Graduate from the *School of Hard Knocks* (Persistence + Creativity 💡)  
+🌱 Currently learning, building, and growing — one commit at a time  
 
-## 💻 Tech Toolbox
+---
 
-- **Languages:** Java, Python, JavaScript
-- **Technologies:** HTML, CSS, MySQL, MongoDB, JSP, ReactJS, Spring Boot
-- **Tools:** GIT, Linux, Windows
+## 💻 Tech Stack  
 
-Feel free to wander through the digital trails I've left. Contributions, suggestions, or virtual high-fives are always welcome!
+### 🧠 Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-Drop me a line, whether it's to discuss a collaboration, share memes, or debate tabs vs. spaces. Excited to meet fellow cosmic coders on this intergalactic journey!
+### ⚙️ Technologies  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
 
-May your bugs be minimal and your merges conflict-free. Happy coding! 🌈✨
+### 🛠️ Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Sonia's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
+
+---
+
+## 🔥 GitHub Streak  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)  
+
+---
+
+## 🚀 What I Do  
+✨ Build backend systems  
+✨ Solve algorithmic challenges  
+✨ Explore new technologies  
+✨ Write clean (and sometimes buggy 😄) code  
+
+---
+
+## 🤝 Connect With Me  
+
+📫 Reach out for:  
+- Collaboration 🤝  
+- Tech discussions 💻  
+- Or just memes 😂  
+
+---
+
+## 🌈 Fun Line  
+*"May your bugs be minimal and your merges conflict-free!"* ✨  
+
+---
+
+⭐️ From [Sonia Dessai](https://github.com/YOUR_USERNAME)
